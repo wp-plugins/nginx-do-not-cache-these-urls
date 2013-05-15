@@ -14,6 +14,24 @@ This plugin forces Nginx not to cache the specified URLs. Regular expressions ar
 
 This plugin forces Nginx not to cache the specified URLs. Regular expressions are supported for advanced users.
 
+**How this product came to life:**
+
+1. One person came up with an idea to create such product.
+2. This person has added this idea on aimbox.com
+3. Everyone who liked this idea pooled their funds together and hired a developer.
+4. The developer has created the product and now you can enjoy using it!
+
+If you have an idea how to make this product better, feel free to add it here:
+http://aimbox.com/p/WordPress_Nginx_do_not_cache_these_URLs/2
+
+*emphasis*
+
+Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
+Titles are optional, naturally.
+
+[markdown syntax]: http://daringfireball.net/projects/markdown/syntax
+            "Markdown is what the parser uses to process much of the readme file"
+
 == Installation ==
 
 1. Upload `nginx-do-not-cache-these-urls.php` to the `/wp-content/plugins/` directory
